@@ -5,6 +5,6 @@ Build model to detect VPC or APC diseases
 
 # Code
 
-- [EDA]()
+- [EDA](https://github.com/yuting1214/Analysis-of-Electrocardiogram-data-/blob/master/code/DM_final_EDA.R)
 
-- [model]()
+- [model](https://github.com/yuting1214/Analysis-of-Electrocardiogram-data-/blob/master/code/DM_final_model.R)

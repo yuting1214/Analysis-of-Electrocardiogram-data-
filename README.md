@@ -1,7 +1,7 @@
 # Analysis of Electrocardiogram data 
 Build model to detect VPC or APC diseases
 
-- [Report](https://drive.google.com/drive/u/1/folders/1Aa4WzqcS3KNrkaMnnCvP4XuUkDKTL_YL)
+- [Report](https://drive.google.com/open?id=1g-JZGBBj4hAVPCo3jO-jgNheOG7cz5FB)
 
 # Code
 
